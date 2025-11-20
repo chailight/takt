@@ -5,6 +5,9 @@ Then use the following commandline within maiden:
 
 ;install https://github.com/chailight/takt
 
+See below for original documentation + modifications / extensions available in this fork
+---
+
 ![docs](lib/doc.png)
 
 @chailight extensions
