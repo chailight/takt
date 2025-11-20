@@ -2,6 +2,7 @@ This is a fork of the original takt script for norns by itsyourbedtime.
 
 To install, first ensure that you have uninstalled any previous version of takt.  
 Then use the following commandline within maiden:
+
 ;install https://github.com/chailight/takt
 
 ![docs](lib/doc.png)
